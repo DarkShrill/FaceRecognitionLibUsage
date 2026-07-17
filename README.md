@@ -13,6 +13,12 @@
 
 </div>
 
+</div>
+<div align="center">
+<video src="https://github.com/user-attachments/assets/85125da1-db96-4039-93c2-ceb3f975160b"></video>
+</div>
+▶️ [Demo Here](https://github.com/DarkShrill/FaceRecognition/blob/master/docs/test.mp4)
+
 ---
 
 ## Overview
