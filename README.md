@@ -76,7 +76,8 @@ The GitHub repository does not contain all the files required to compile and run
 
 In addition to cloning the repository, download the required package containing the external headers, libraries, DLLs and ONNX models:
 
-### [Download the required files](LINK)
+* [Download external libraries](https://github.com/DarkShrill/FaceRecognitionLibUsage/releases/download/v1.0.0.0/external_lib_to_include.zip)
+* [Download recognition models](https://github.com/DarkShrill/FaceRecognitionLibUsage/releases/download/v1.0.0.0/models.zip)
 
 After downloading the archive, extract its contents directly into the root directory of the repository.
 
